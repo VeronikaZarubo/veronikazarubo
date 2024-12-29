@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a Private clinic desktop application made with C# Visual Studio
+My name is Veronika and I'm a Computer Science student interested in all things Python & Data Analytics!
+
+- 🔭 I’m currently working on a desktop application for the needs of a private clinic.
 - 🌱 I’m currently learning Automated testing in Python
 
 <!--
