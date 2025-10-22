@@ -2,7 +2,7 @@
 
 My name is Veronika and I'm a Computer Science student interested in all things С# & Data Analytics!
 
-- 🔭 I’m currently working on a desktop application for the needs of a library.
+- 🔭 I’m currently working on a desktop application for the needs of a backery.
 - 🌱 I’m currently learning Automated testing in Python.
 - 📫 How to reach me: dm me on LinkedIn!
 
