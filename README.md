@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Veronika and I'm a Computer Science student interested in all things С# & Data Analytics!
+My name is Veronika and I'm a Computer Science student interested in all things Python, С# & Data Analytics!
 
 - 🔭 I’m currently working on a web application for the needs of a backery.
 - 🌱 I’m currently learning Data Analytics Engineering.
