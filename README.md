@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Veronika and I'm a Computer Science student interested in all things Python, С# & Data Analytics!
+My name is Veronika and I'm a Data Engineer and Computer Science graduate interested in all things SQL, Python & Data Analytics!
 
-- 🔭 I’m currently working on a web application for the needs of a backery.
+- 🔭 I’m currently working on personal Data Integration projects.
 - 🌱 I’m currently learning Data Analytics Engineering.
 - 📫 How to reach me: dm me on LinkedIn!
 
